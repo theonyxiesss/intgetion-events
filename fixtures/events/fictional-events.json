@@ -1,0 +1,84 @@
+[
+  {
+    "topic": "general",
+    "name": "Fictional Web3 Builders Summit",
+    "url": "https://example.com/web3-builders-summit",
+    "startDate": "2026-11-12",
+    "endDate": "2026-11-13",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "online": false,
+    "locales": "EN",
+    "cfpUrl": "https://example.com/web3-builders-summit/cfp",
+    "cfpEndDate": "2026-10-30"
+  },
+  {
+    "topic": "data",
+    "name": "Fictional AI Engineering Conf",
+    "url": "https://example.com/ai-engineering",
+    "startDate": "2026-12-03",
+    "endDate": "2026-12-04",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "topic": "javascript",
+    "name": "Fictional Remote JS Meetup",
+    "url": "https://example.com/remote-js-meetup",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "city": "Berlin",
+    "country": "Germany",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "topic": "leadership",
+    "name": "Fictional Remote Career Day",
+    "url": "https://example.com/remote-career-day",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-21",
+    "online": true,
+    "locales": "EN"
+  },
+  {
+    "topic": "security",
+    "name": "Fictional Zero Knowledge Hackathon",
+    "url": "https://example.com/zk-hackathon",
+    "startDate": "2027-02-05",
+    "endDate": "2027-02-07",
+    "city": "Singapore",
+    "country": "Singapore",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "topic": "product",
+    "name": "Fictional Product Leaders Business Breakfast",
+    "url": "https://example.com/product-breakfast",
+    "startDate": "2027-03-10",
+    "endDate": "2027-03-10",
+    "city": "London",
+    "country": "U.K.",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "topic": "devops",
+    "name": "Fictional Event Without A Place",
+    "url": "https://example.com/no-place",
+    "startDate": "2027-03-15",
+    "endDate": "2027-03-16",
+    "online": false,
+    "locales": "EN"
+  },
+  {
+    "topic": "devops",
+    "name": "Fictional Event With A Script Link",
+    "url": "javascript:alert(1)",
+    "startDate": "2027-03-20",
+    "endDate": "2027-03-21",
+    "online": true,
+    "locales": "EN"
+  }
+]
